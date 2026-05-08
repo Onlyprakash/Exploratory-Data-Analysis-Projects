@@ -1,4 +1,4 @@
-# 🚀 Exploratory Data Analysis (EDA) Projects Portfolio
+# 🔍 Exploratory Data Analysis (EDA) Projects Portfolio
 
 Welcome to my Data Analytics & Exploratory Data Analysis project portfolio.
 This repository contains multiple real-world EDA projects where I performed data cleaning, preprocessing, visualization, feature engineering, and insight extraction using Python.
@@ -31,11 +31,7 @@ The purpose of these projects is to strengthen practical data analysis skills an
 
 ---
 
-# ✈️ Flight Price Analysis Project
-╔══════════════════════════════╗
-║   ✈️ SKY FARE ANALYTICS ✈️  ║
-║  Aviation • Routes • Prices  ║
-╚══════════════════════════════  
+# ✈️ Flight Price Analysis Project 
 
 ## 📌 Project Overview
 
