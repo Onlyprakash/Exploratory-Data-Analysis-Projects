@@ -32,10 +32,10 @@ The purpose of these projects is to strengthen practical data analysis skills an
 ---
 
 # ✈️ Flight Price Analysis Project
-# ╔══════════════════════════════╗
-║   ✈️ SKY FARE ANALYTICS ✈️   ║
-║  Aviation • Routes • Prices ║
-╚══════════════════════════════
+╔══════════════════════════════╗
+║   ✈️ SKY FARE ANALYTICS ✈️  ║
+║  Aviation • Routes • Prices  ║
+╚══════════════════════════════  
 
 ## 📌 Project Overview
 
