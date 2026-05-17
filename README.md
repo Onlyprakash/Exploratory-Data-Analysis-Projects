@@ -221,39 +221,6 @@ Insights Extraction
 
 ---
 
-# 📸 Recommended Repository Structure
-
-```text
-EDA-Projects/
-│
-├── Flight-Price-Analysis/
-│   ├── Flight.ipynb
-│   ├── dataset.xlsx
-│   ├── images/
-│   └── README.md
-│
-├── Shopping-Trends-Analysis/
-│   ├── Shopping.ipynb
-│   ├── shopping_trends.csv
-│   ├── images/
-│   └── README.md
-│
-├── GooglePlay-Store-Analysis/
-│   ├── GooglePlay.ipynb
-│   ├── googleplaystore.csv
-│   ├── images/
-│   └── README.md
-│
-├── Netflix-Analysis/
-│   ├── Netflix.ipynb
-│   ├── images/
-│   └── README.md
-│
-└── Main README.md
-```
-
----
-
 # 🌟 Future Improvements
 
 * Add Machine Learning models
