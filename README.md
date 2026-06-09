@@ -211,12 +211,18 @@ Insights Extraction
 
 # 💡 Skills Demonstrated
 
-✅ Data Cleaning
+✅ Data Cleaning 
+
 ✅ Data Preprocessing
+
 ✅ Feature Engineering
+
 ✅ Exploratory Data Analysis
+
 ✅ Data Visualization
+
 ✅ Insight Generation
+
 ✅ Analytical Thinking
 
 ---
